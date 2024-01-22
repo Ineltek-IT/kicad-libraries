@@ -6,7 +6,7 @@
     (property "Value" "" (at -19.05 -6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at -19.05 -6.35 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm" (at -19.05 -6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -19.05 -6.35 0)
