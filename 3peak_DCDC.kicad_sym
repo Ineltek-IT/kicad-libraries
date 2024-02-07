@@ -3,7 +3,7 @@
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
+    (property "Value" "TPP30208" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm" (at 0 5.08 0)
